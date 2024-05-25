@@ -1,0 +1,17 @@
+.li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.suggestion {
+  margin-top: 0px;
+  color: #64748b;
+  font-family: 'Roboto';
+}
+
+.arrow-logo {
+  width: 5%;
+}
